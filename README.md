@@ -7,3 +7,7 @@ https://github.com/jamierachael/Password-Generator
 ## javaScript
 
 Conditional (if, else ) statements are used to return a randomly selected password composed of a User selected combination lowercase letters, uppercase letters, numbers and special characters.
+
+## Refactor
+
+code refactored 6/20/23
