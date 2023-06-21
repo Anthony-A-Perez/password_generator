@@ -2,7 +2,7 @@
 
 Unfortunately I did not absorb this weeks material well enough to complete this challenge without *heavily* referencing the following codebase:
 
-https://github.com/jamierachael/Password-Generator
+<https://github.com/jamierachael/Password-Generator>
 
 ## javaScript
 
@@ -11,3 +11,11 @@ Conditional (if, else ) statements are used to return a randomly selected passwo
 ## Refactor
 
 code refactored 6/20/23
+
+## Deployment
+
+<https://anthony-a-perez.github.io/password_generator/>
+
+## Repository
+
+<https://github.com/Anthony-A-Perez/password_generator>
